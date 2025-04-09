@@ -14,5 +14,6 @@ Furthermore, a hybrid feature selection method combining model-based selection (
 This work is part of The Applied Research for Leading Higher Education initiative. We sincerely express our gratitude to Telkom University for providing financial support for this research. Additionally, we acknowledge the contributions of all collaborators and researchers involved in this study, whose insights and efforts have been invaluable in achieving these results.
 
 # Publication
+- Third publication: under consideration 
 - B. Pradito, S. D. Budiwati, E. Hernawati and S. K. Sari, "Classification for Human Resource Talent Management Using Support Vector Machine Model," 2024 4th International Conference of Science and Information Technology in Smart Administration (ICSINTESA), Balikpapan, Indonesia, 2024, pp. 282-287, doi: 10.1109/ICSINTESA62455.2024.10747875.
 - S. Nurajijah, D. R. Wijaya and S. K. Sari, "Gradient Tree Boosting for HR Talent Management Application," 2022 10th International Conference on Information and Communication Technology (ICoICT), Bandung, Indonesia, 2022, pp. 264-269, doi: 10.1109/ICoICT55009.2022.9914833.
